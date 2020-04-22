@@ -1,0 +1,9 @@
+{
+    "users": [
+        {"id": 1, "name": "Nazar Saaliev", "email": "user@mail.ru"},
+        {"id": 2, "name": "Andy Grove", "email": "user@mail.ru"},
+        {"id": 3, "name": "Bill Hewlett", "email": "user@mail.ru"},
+        {"id": 4, "name": "Freddie Mercury", "email": "user@mail.ru"},
+        {"id": 5, "name": "Steve Jobs", "email": "user@mail.ru"}
+    ]
+}
